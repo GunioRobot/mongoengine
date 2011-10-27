@@ -6,9 +6,9 @@ MongoEngine
 
 About
 =====
-MongoEngine is a Python Object-Document Mapper for working with MongoDB. 
-Documentation available at http://hmarr.com/mongoengine/ - there is currently 
-a `tutorial <http://hmarr.com/mongoengine/tutorial.html>`_, a `user guide 
+MongoEngine is a Python Object-Document Mapper for working with MongoDB.
+Documentation available at http://hmarr.com/mongoengine/ - there is currently
+a `tutorial <http://hmarr.com/mongoengine/tutorial.html>`_, a `user guide
 <http://hmarr.com/mongoengine/userguide.html>`_ and an `API reference
 <http://hmarr.com/mongoengine/apireference.html>`_.
 
@@ -84,9 +84,9 @@ the standard port, and run ``python setup.py test``.
 
 Community
 =========
-- `MongoEngine Users mailing list 
+- `MongoEngine Users mailing list
   <http://groups.google.com/group/mongoengine-users>`_
-- `MongoEngine Developers mailing list 
+- `MongoEngine Developers mailing list
   <http://groups.google.com/group/mongoengine-dev>`_
 - `#mongoengine IRC channel <irc://irc.freenode.net/mongoengine>`_
 
